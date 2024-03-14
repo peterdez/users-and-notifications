@@ -36,5 +36,4 @@ Application with 2 apis, users and notifications.
 - php artisan migrate
 14. Run server
 - php artisan serve --port=8080
-15. Send a post req uest to server running on [http://127.0.0.1:8080]
-16. Confirm that the sent data is saved in a log file
+15. Confirm that the sent data is saved in a log file
